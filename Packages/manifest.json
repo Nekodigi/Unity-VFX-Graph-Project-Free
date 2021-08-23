@@ -1,0 +1,25 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.render-pipelines.high-definition": "12.0.0",
+    "com.unity.render-pipelines.universal": "12.0.0",
+    "com.unity.timeline": "1.6.1",
+    "jp.keijiro.kino.post-processing": "2.1.15",
+    "jp.keijiro.klak.motion": "1.0.1",
+    "jp.keijiro.klak.timeline.procedural-motion": "1.0.1",
+    "jp.keijiro.metamesh": "0.0.8",
+    "jp.keijiro.noiseshader": "1.0.0",
+    "jp.keijiro.pugrad": "1.0.0",
+    "jp.keijiro.test-assets": "1.0.1",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.nvidia": "1.0.0"
+  }
+}
